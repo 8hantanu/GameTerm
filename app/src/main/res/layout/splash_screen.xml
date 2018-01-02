@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <TextView android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+        android:text="  ________      ________      __________      ________     &#xA;
+|\\  _____\\    |\\  ____ \\    |\\  __  __ \\    |\\  _____\\    &#xA;
+\\ \\ \\  __|_   \\ \\ \\__|\\ \\   \\ \\ \\|\\ \\|\\ \\   \\ \\ \\____|    &#xA;
+ \\ \\ \\|\\__ \\   \\ \\  ____ \\   \\ \\ \\ \\ \\ \\ \\   \\ \\  ___\\    &#xA;
+  \\ \\ \\|_|\\ \\   \\ \\ \\__|\\ \\   \\ \\ \\ \\ \\ \\ \\   \\ \\ \\__|___ &#xA;
+   \\ \\_______\\   \\ \\_\\ \\ \\_\\   \\ \\_\\ \\_\\ \\_\\   \\ \\_______\\&#xA;
+    \\|_______|    \\|_|  \\|_|    \\|_|\\|_|\\|_|    \\|_______|&#xA;
+                                                          &#xA;
+                 __                                       &#xA;
+               _|\\ \\___           ________                &#xA;
+              |\\__   __\\         |\\_______\\               &#xA;
+              \\|__|\\_\\_|         \\|_______|               &#xA;
+                  \\|_|     __________                     &#xA;
+                          |\\_________\\                    &#xA;
+                          \\|_________|                    &#xA;
+                                                          &#xA;
+                                                          &#xA;
+ ________      ________      ________      __________     &#xA;
+|\\___  __\\    |\\  _____\\    |\\  ____ \\    |\\  __  __ \\    &#xA;
+\\|__|\\ \\_|    \\ \\ \\____|    \\ \\ \\__|\\ \\   \\ \\ \\|\\ \\|\\ \\   &#xA;
+    \\ \\ \\      \\ \\  ___\\     \\ \\  ___ /_   \\ \\ \\ \\ \\ \\ \\  &#xA;
+     \\ \\ \\      \\ \\ \\__|___   \\ \\ \\__|\\ \\   \\ \\ \\ \\ \\ \\ \\ &#xA;
+      \\ \\_\\      \\ \\_______\\   \\ \\_\\ \\ \\_\\   \\ \\_\\ \\_\\ \\_\\&#xA;
+       \\|_|       \\|_______|    \\|_|  \\|_|    \\|_|\\|_|\\|_|&#xA;"
+        android:fontFamily="monospace"
+        android:textSize="7sp"
+        android:gravity="center_vertical"
+        android:textStyle="normal|bold"
+        android:textAlignment="center"
+        android:textColor="@color/colorAccent"
+        android:background="@color/colorPrimary" />
+
+</LinearLayout>
